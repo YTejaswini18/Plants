@@ -3,8 +3,6 @@
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field>plant_cost</field>
-        <field_message/>
-        <field_message_type>none</field_message_type>
         <mandatory>true</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -20,9 +18,6 @@
         <sys_updated_on>2024-10-09 12:45:05</sys_updated_on>
         <table>x_snc_plant_mgmt_plant_trading</table>
         <ui_policy display_value="Show Plant cost if Trade type is Trade">9f599a07830552100354f2d6feaad321</ui_policy>
-        <value/>
-        <value_action>ignore</value_action>
         <visible>true</visible>
     </sys_ui_policy_action>
-    <sys_translated_text action="delete_multiple" query="documentkey=e989da47830552100354f2d6feaad3fd"/>
 </record_update>

@@ -110,7 +110,7 @@
         <sys_updated_by>paige.duffey</sys_updated_by>
         <sys_updated_on>2024-04-16 02:52:46</sys_updated_on>
         <value>record</value>
-        <variable display_value="Record path">74d6e7a0a3023110571967d1361e616b</variable>
+        <variable display_value="">74d6e7a0a3023110571967d1361e616b</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=e98c395e3ba94210a891257aa5e45a63"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
