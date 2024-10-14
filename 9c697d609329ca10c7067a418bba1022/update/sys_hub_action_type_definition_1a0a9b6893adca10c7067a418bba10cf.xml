@@ -6,15 +6,12 @@
         <action_template/>
         <active>true</active>
         <annotation/>
-        <attributes>{labelCacheCleanUpExecuted=true}</attributes>
-        <authored_on_release_version>25000</authored_on_release_version>
         <callable_by_client_api>false</callable_by_client_api>
         <category display_value="">{}</category>
         <compiler_build/>
         <copied_from/>
         <copied_from_name/>
         <description/>
-        <flow_priority/>
         <ih_action>false</ih_action>
         <internal_name>import_plants</internal_name>
         <label_cache/>

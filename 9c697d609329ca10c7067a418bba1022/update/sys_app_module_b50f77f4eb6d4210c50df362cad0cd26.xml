@@ -17,7 +17,6 @@
         <override_menu_roles>false</override_menu_roles>
         <query>https://github.com/404paige/CCL1187PlantMgmt</query>
         <report/>
-        <require_confirmation>true</require_confirmation>
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>paige.duffey</sys_created_by>

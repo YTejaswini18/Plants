@@ -9,7 +9,6 @@
         <field_parent_table/>
         <label>Water</label>
         <order>100</order>
-        <parent/>
         <reference/>
         <sys_class_name>sn_decision_table_decision_condition</sys_class_name>
         <sys_created_by>paige.duffey</sys_created_by>
